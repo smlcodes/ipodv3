@@ -338,8 +338,7 @@
 							<div class="roted-around primary"> <span></span> </div> <img src="assets/images/icon/connect.png" alt="" /> </div>
 						<div class="service-content">
 							<h4 class="title">Blockchain Development</h4>
-							<p> We can help you get your ideas to a real product with scalability and reliability with
-                                the best team of Blockchain developers with us, we offer amazing solutions.</p> <a href="ml-service.php" class="btn btn-outline-primary">Details +</a> </div>
+							<p> We can help you get your ideas to a real product with scalability and reliability with the best team of Blockchain developers.</p> <a href="ml-service.php" class="btn btn-outline-primary">Details +</a> </div>
 					</div>
 				</div>
 				<!-- service-card end -->
