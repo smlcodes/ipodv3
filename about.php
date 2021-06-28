@@ -52,7 +52,7 @@
                     <div class="offset-about">
                         <div class="about-content section-title primary">
                             <h5 class="sub-title">--</h5>
-                            <h1 class="title" style="font-size:70px"><i>INFRAPOD</i> </h1>
+							<h1 class="title" style="font-size:70px;font-family: sans-serif;font-weight: 900;"><i>INFRAPOD</i> </h1>
 							<h5 class="sub-title">Technologies</h5>
                             <p>
                                 Infrapod specializes in using leading edge, proven technologies to build practical solutions to business problems. We commit to understanding our client's business and technology needs so that our solutions are able to meet both current and future needs.  </p>  
