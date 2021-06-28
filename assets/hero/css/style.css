@@ -34,8 +34,7 @@
 
 html,
 body {
-	height: 100%;
-	font-family: "Montserrat", sans-serif;
+	height: 100%;	 
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
