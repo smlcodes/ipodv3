@@ -82,7 +82,7 @@ FTP Username: infrrazs
 FTP server: ftp.infrapodtec.com
 FTP & explicit FTPS port:  21
 infrrazs
-Infrapod@321
+Infrapod@
 
 
 /home/infrrazs/public_html/v3
