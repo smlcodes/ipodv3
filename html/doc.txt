@@ -1,0 +1,80 @@
+Home
+About
+Services
+	- IOT
+	- Blockchain
+	- Machine Learning
+	- Artificial Intelligence
+	- Software Development
+	- Cloud Services
+	- DevOps
+
+
+
+Partners & Clinets
+Careers
+Contact
+
+
+
+https://technext.github.io/lifetrakr/images/backgrounds/banner-bg.jpg
+https://i2.wp.com/www.csscodelab.com/wp-content/uploads/2019/11/stripe-hero-background-effect-html-css.png?w=1062&ssl=1
+https://i2.wp.com/www.csscodelab.com/wp-content/uploads/2020/02/pure-html-css-hexagon-gradient-background.png?w=981&ssl=1
+https://i1.wp.com/www.csscodelab.com/wp-content/uploads/2020/03/css-only-gradient-background-animation.png?w=1098&ssl=1
+
+## Hero Text height
+file:///C:/xampp/htdocs/v2/pringo/assets/hero/css/style.css
+hero__item .hero__text {
+    padding-top: 184px;
+}
+
+file:///C:/xampp/htdocs/v2/pringo/assets/css/component/_hero-section.scss
+.hero-section {
+    margin-bottom: 20px;
+    position: relative;
+    border-top: 1px solid #f0f0f0;
+}
+
+Download Images
+https://www.pngitem.com/search.html?k=blockchain
+https://www.stickpng.com/
+
+
+
+
+
+Circle
+----------------
+file:///C:/xampp/htdocs/v2/pringo/assets/circle/app.css
+
+
+main .home-services .main-content .circle-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    padding-top: 50px;
+    padding-right: 0px;
+}
+
+
+
+
+
+
+Services
+----------------
+Ref:
+https://www.scnsoft.com/services/iot/consulting
+
+https://ezgif.com/svg-to-png
+
+
+Cloud
+https://centricconsulting.com/technology-solutions/cloud-computing/
+
+
+
+DevOps
+https://www.ksolves.com/devops-consulting-services
+https://marutitech.com/devops-consulting-services/
