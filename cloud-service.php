@@ -53,7 +53,7 @@
 						
 						<p>Finally, we offer a full range of support for leading-edge technologies such as IoT and Big Data. We have helped companies develop everything from small proof of concepts to full production implementations allowing them to innovate quicker and cheaper by leveraging the cloud.</p>
 						
-						<p><img alt="IoT services - ScienceSoft" src="assets/images/service/ai.png"></p>
+						<p><img alt="IoT services - Infrapod" src="assets/images/service/cloud.jpg"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>

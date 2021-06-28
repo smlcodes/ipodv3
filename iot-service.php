@@ -43,7 +43,7 @@
 						<h2>IOT - Internet Of Things</h2>
 						<p>At Infrapod Technologies, we believe in coming up with booming, personalized, new-age and out of the box solutions for our clients. Our team has an enormous knowledge of the structure and mobile technologies. </p>
 						<p>We follow a proprietary quick development process that maintains the product's roadmap from concept to its launch- resulting in the vast web, mobile, and Internet Of Things infrastructure implementations.</p>
-						<p><img alt="IoT services - ScienceSoft" class="lazyload responsive" data-src="/iot/internet-of-things-services.svg" height="300" src="assets/images/service/iot.png" width="900"></p>
+						<p><img alt="IoT services - Infrapod" class="lazyload responsive" data-src="/iot/internet-of-things-services.svg" src="assets/images/service/iot.png"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>

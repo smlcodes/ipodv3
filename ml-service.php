@@ -52,7 +52,7 @@
 						
 						<p>Day-by-day Machine Learning is becoming popular between industries, and business owners have finally started to believe that it can bring a massive change in their business's efficiency. Infrapod Technologies experts say that Machine Learning is a breakthrough as big as the internet and the personal computer.. </p>
 						
-						<p><img alt="IoT services - ScienceSoft" src="assets/images/service/ml.png"></p>
+						<p><img alt="IoT services" src="assets/images/service/ml.jpg"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>

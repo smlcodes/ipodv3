@@ -52,7 +52,7 @@
 						
 						<p>We are a DevOps as a service company consolidating application modernization and revitalizing enterprise agility. Get hold of a varied list of services and solutions to automate deployment, analytics, and boost continuous delivery!</p>
 						
-						<p><img alt="" src="assets/images/service/devops.png"></p>
+						<p><img alt="" src="assets/images/service/devops2.jpg"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>

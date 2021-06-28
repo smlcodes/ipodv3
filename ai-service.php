@@ -52,7 +52,7 @@
 						
 						<p>Infrapod Technologies believes in bringing a top-of-the-line performance by establishing the result-oriented Artificial Intelligence solutions to improve the productivity of businesses. Our Artificial Intelligence specialists can reanalyze the way the companies operate.</p>
 						
-						<p><img alt="IoT services - ScienceSoft" src="assets/images/service/ai.png"></p>
+						<p><img alt="IoT services - Infrapod" src="assets/images/service/ai.png"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>

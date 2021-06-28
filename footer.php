@@ -4,7 +4,7 @@
 	<footer class="footer-section position-relative"> <img class="footer-bg-shape" src="assets/images/footer/shape.png" alt="images_notFound" /> <img class="path-shape" src="assets/images/footer/path-shape.png" alt="images_notFound" />
 	
 		<!-- <img class="shape" src="assets/images/footer/1.png" alt="images_notFound" /> -->
-		<div class="footer-top position-relative">
+		<div class="footer-top position-relative" style="padding: 30px 0px;">
 			<div class="container">
 
 				<div class="row">

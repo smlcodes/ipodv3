@@ -36,7 +36,7 @@
 	</section>
 	<!-- bread crumb section end -->
 	<!-- About Section Begin -->
-	<section class="about-section spad">
+	<section class="about-section spad" style="padding-bottom: 10px">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-1"></div>
@@ -45,7 +45,7 @@
 						<h2>Blockchain Development</h2>
 						<p>We can help you get your ideas to a real product with scalability and reliability. With the best team of Blockchain developers with us, we offer unique solutions. With the experience of building numerous digital platforms for apps and blockchain companies, we have customized our development cycle always to be updated with current industry standards. </p>
 						
-						<p><img alt="IoT services - ScienceSoft" src="assets/images/service/bc.png"></p>
+						<p><img alt="IoT services - Infrapod" src="assets/images/service/bc.jpg"></p>
 					</div>
 				</div>
 				<div class="col-md-1"></div>
@@ -57,12 +57,12 @@
  
 	
     <!-- About Section Begin -->
-    <section class="about-section spad">
+    <section class="about-section spad" style="padding-bottom: 10px">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
                     <div class="about__img">
-                        <img src="assets/images/about/1.png" alt="">
+                        <img src="assets/images/service/bc1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8">

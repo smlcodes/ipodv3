@@ -220,7 +220,7 @@
 							 <h5 class="sub-title">//About Us</h5><br>
 							<h1 class="title" style="font-size:70px"><i>INFRAPOD</i> </h1>
 							<h5 class="sub-title">Technologies</h5>
-							<p> Infrapod Technologies is one of the leading IT Consulting and Services Organizations, helping companies of all sizes across the globe to identify and capitalize on business opportunities.. </p> <span class="hr-primary mt-4"></span> </div>
+							<p> Infrapod Technologies is one of the leading IT Consulting and Services Organizations, helping companies of all sizes across the globe to identify and capitalize on business opportunities. </p> <span class="hr-primary mt-4"></span> </div>
 						<div class="about-object">
 							<div class="about-object-list">
 								<div class="icon"> <img src="assets/images/icon/commitment.png" alt="images-not_found" /> </div>
