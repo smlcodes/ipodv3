@@ -149,7 +149,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-6">
 					<div class="feature__item"> <span class="fa fa-lock"></span>
 						<h5>Security Integration</h5>
-						<p>To protect from potential threats, We perform end-to-end security integration through ‘Security as Code’ mechanism using DevSecOps.
+						<p>We perform end-to-end security integration through ‘Security as Code’ mechanism using DevSecOps.
 						</p>
 					</div>
 				</div>
