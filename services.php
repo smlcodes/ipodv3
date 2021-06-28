@@ -99,7 +99,7 @@
 				<div class="col-md-6 mb-7" data-aos="fade-up" data-aos-delay="900">
 					<div class="service-card"> <img class="line" src="assets/images/service/line-one.png" alt="images_not_found" />
 						<div class="service-icon">
-							<div class="roted-around dagnger"> <span></span> </div> <img src="assets/images/icon/inno.png" alt="" /> </div>
+							<div class="roted-around dagnger"> <span></span> </div> <img src="assets/images/icon/cloud.png" alt="" /> </div>
 						<div class="service-content">
 							<h4 class="title">Cloud  Services</h4>
 							<p> We are making machines able to leverage the captured data for self-learning and
@@ -114,7 +114,7 @@
 				<div class="col-md-6 mb-7" data-aos="fade-up" data-aos-delay="1200">
 					<div class="service-card"> <img class="line" src="assets/images/service/line-foure.png" alt="images_not_found" />
 						<div class="service-icon">
-							<div class="roted-around primary"> <span></span> </div> <img src="assets/images/icon/ai.png" alt="" /> </div>
+							<div class="roted-around primary"> <span></span> </div> <img src="assets/images/icon/devops.png" alt="" /> </div>
 						<div class="service-content">
 							<h4 class="title">DevOps Services</h4>
 							<p> We change the Businesses with Next-generation Artificial Intelligence Solutions Reshape
