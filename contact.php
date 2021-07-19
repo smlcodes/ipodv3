@@ -86,7 +86,7 @@
                                     </div>
                                     <div class="content">
                                         <span class="text">Address:</span>
-                                        <h3 class="number" style="font-size:17px">320 Decker drive, Suite#100, Irving, Texas, 75062</h3>
+                                        <h3 class="number" style="font-size:17px">4322 N Beltline rd, Suite#B113, Irving, Texas, 75038</h3>
                                     </div>
                                 </div>
                                 <!-- contact media end -->
@@ -120,7 +120,9 @@
                                 </div>
                             </div>
                             <div class="col-12 mb-7">
-                                <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1581.6614154151416!2d-96.9404489101797!3d32.86050239443073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e82c10653d691%3A0x1360bf019d8c869d!2sInfrapod%20Technologies!5e0!3m2!1sen!2sin!4v1624803504167!5m2!1sen!2sin"></iframe>
+						
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3350.9008078773454!2d-96.99278248481548!3d32.874343780942716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e820dd855ee95%3A0x2f43f2239c0faf80!2s4322%20N%20Belt%20Line%20Rd%20b113%2C%20Irving%2C%20TX%2075038%2C%20USA!5e0!3m2!1sen!2sin!4v1626678935693!5m2!1sen!2sin" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+							
                             </div>
                         </div>
                     </div>

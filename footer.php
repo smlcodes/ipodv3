@@ -25,9 +25,9 @@
                       ></span> <a href="mailto:info@infrapodtec.com">info@infrapodtec.com</a> </li>
 											<li> 
 											<span class="icon"><i class="icofont-google-map"></i></span>
-											320 Decker drive, Suite#100<br> 
+											4322 N Beltline rd, Suite#B113<br> 
 											<span class="icon"><i class="icofont-stylish-right"></i></span>
-											Irving, Texas, 75062 </li>
+											Irving, Texas, 75038</li>
 										</ul>
 									</div>
 								</div>
