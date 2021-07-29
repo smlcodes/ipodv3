@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Infrapod Technologies - Partners & Clinets</title>
+	<title>Infrapod Technologies - Partners & Clients</title>
 	 
 	 <?php include('header.php');  ?> 
 	 
@@ -25,11 +25,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<h2 class="title text-center">Partners & Clinets</h2>
+					<h2 class="title text-center">Partners & Clients</h2>
 					<nav aria-label="breadcrumb">
 						<ol class="breadcrumb justify-content-center">
 							<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-							<li class="breadcrumb-item active" aria-current="page"><span>Partners & Clinets</span></li>
+							<li class="breadcrumb-item active" aria-current="page"><span>Partners & Clients</span></li>
 						</ol>
 					</nav>
 				</div>
@@ -146,7 +146,7 @@
 				<div class="col-md-1"></div>
 				<div class="col-md-10">
 					<div class="about__text">
-						<h2>Our Clinets</h2>
+						<h2>Our Clients</h2>
 						<p>Our clients range from entrepreneurial startups to Fortune 500 organizations. And our solutions address the needs of the entire management team, from the department lead, to the human resources administrator, all the way up to the CEO.</p>
 					</div>
 					

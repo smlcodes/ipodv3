@@ -94,7 +94,7 @@
                                 <div class="about-object-content">
                                     <h4 class="title">Our Value</h4>
                                     <p>
-                                        Our core values are our unique understanding of our clinets requirements and our strive to offer flexible, creatively personaliozed and well thought out, win-win solutions for our customers..
+                                        Our core values are our unique understanding of our clients requirements and our strive to offer flexible, creatively personaliozed and well thought out, win-win solutions for our customers..
                                     </p>
                                 </div>
                             </div>

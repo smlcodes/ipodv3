@@ -27,7 +27,7 @@
 										<li> <a  href="devops-service.php">DevOps</a> </li>
 							</ul>
 						</li>
-						<li> <a href="clinets.php">Partners & Clinets</a> </li>
+						<li> <a href="clinets.php">Partners & Clients</a> </li>
 						<li> <a href="careers.php">Careers</a> </li>
 						<li> <a href="contact.php">Contact</a> </li>
 					</ul>
@@ -92,7 +92,7 @@
 										<li> <a class="sub-menu-link" href="devops-service.php">DevOps</a> </li>
 									</ul>
 								</li>
-								<li class="main-menu-item"> <a class="main-menu-link" href="clinets.php">Partners & Clinets</a> </li>
+								<li class="main-menu-item"> <a class="main-menu-link" href="clinets.php">Partners & Clients</a> </li>
 								<li class="main-menu-item"> <a class="main-menu-link" href="careers.php">
                                         Careers
                                     </a> </li>

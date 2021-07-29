@@ -45,7 +45,7 @@
 												<a class="footer-link" href="services.php"> <i class="icofont-rounded-double-right"></i>Services</a>
 											</li>
 											<li>
-												<a class="footer-link" href="clinets.php"> <i class="icofont-rounded-double-right"></i>Clinets</a>
+												<a class="footer-link" href="clinets.php"> <i class="icofont-rounded-double-right"></i>Clients</a>
 											</li>
 											<li>
 												<a class="footer-link" href="careers.php"> <i class="icofont-rounded-double-right"></i>Careers</a>
