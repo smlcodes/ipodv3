@@ -81,7 +81,7 @@
                                 <div class="about-object-content">
                                     <h4 class="title">Our Vision</h4>
                                     <p>
-                                        Our vision is to give Infrapod Technologiesâ€™s cutting edge billing solutions for service supplier and any small to mid-size businesses and also to provide software solutions and services which are highly reliable, adaptable and easy to use.
+                                        Our vision is to give cutting edge billing solutions for service supplier and any small to mid-size businesses and also to provide software solutions and services which are highly reliable, adaptable and easy to use.
                                     </p>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                                 <div class="about-object-content">
                                     <h4 class="title">Our Value</h4>
                                     <p>
-                                        Our core values are our unique understanding of our clients requirements and our strive to offer flexible, creatively personaliozed and well thought out, win-win solutions for our customers..
+                                        Our core values are our unique understanding of our clients requirements and our strive to offer flexible, creatively personalized and well thought out, win-win solutions for our customers..
                                     </p>
                                 </div>
                             </div>
