@@ -1,7 +1,8 @@
 # ipodv2
-https://www.infrapodtec.com/cpanel (NameCheap)
+https://www.infrapodtec.com/cpanel (NameCheap)  
+
 Username : infrrazs 
-(details in gmail. satyakav@gmil.com
+(details in gmail. satyakav@gmil.com)
 
 
 
