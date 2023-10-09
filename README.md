@@ -1,4 +1,9 @@
 # ipodv2
+https://www.infrapodtec.com/cpanel (NameCheap)
+Username : infrrazs 
+(details in gmail. satyakav@gmil.com
+
+
 
 ## Autodeploy
 Deploy with
